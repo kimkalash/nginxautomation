@@ -38,7 +38,7 @@ server {
 EOL
     sudo ln -s /etc/nginx/sites-available/mysite /etc/nginx/sites-enabled/
     sudo nginx -t
-    sudo systemctl reload nginx
+    sudo systemctl restart nginx
 fi
 
 echo "=== Phase 3 complete: Static site and server block ready ==="

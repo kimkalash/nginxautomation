@@ -1,4 +1,4 @@
-As recently intended, I executed a hands-on DevOps project that automates the full lifecycle of setting up and securing an Nginx web server from manual scripts to full Infrastructure as Code (IaC) with Terraform + Ansible.
+As recently intended for those trying to slide into Devops but dont know where to start hands-on , I executed a hands-on DevOps project that automates the full lifecycle of setting up and securing an Nginx web server from manual scripts to full Infrastructure as Code (IaC) with Terraform + Ansible.
 
  Project Overview
 
